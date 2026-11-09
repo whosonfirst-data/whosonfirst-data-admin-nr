@@ -307,7 +307,7 @@
     },
     "wof:concordances_official":"iso:code",
     "wof:country":"NR",
-    "wof:geomhash":"9a95c8263f533fe8407c21c6452b27e6",
+    "wof:geomhash":"d3ac33e796fc8980c1b9e5ecc4e72486",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -344,5 +344,5 @@
     166.938987,
     -0.490411
 ],
-  "geometry": {"coordinates":[[[166.938987,-0.504183],[166.931197,-0.49334],[166.93881300000001,-0.490411],[166.938987,-0.504183]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[166.938987,-0.504183],[166.931197,-0.49334],[166.938813,-0.490411],[166.938987,-0.504183]]],"type":"Polygon"}
 }
