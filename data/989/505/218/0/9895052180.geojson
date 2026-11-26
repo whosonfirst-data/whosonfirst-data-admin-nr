@@ -1,0 +1,73 @@
+{
+  "id": 9895052180,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.92056,-0.51757,166.92056,-0.51757",
+    "geom:latitude":-0.51757,
+    "geom:longitude":166.92056,
+    "gn:population":479,
+    "iso:country":"NR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11695311: name \"Nibok\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11695311"
+        },
+        {
+            "citation":"GeoNames populated place 11695311: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11695311"
+        },
+        {
+            "citation":"GeoNames populated place 11695311: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11695311"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675637 (Nibok), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632747,
+        85675637,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11695311
+    },
+    "wof:country":"NR",
+    "wof:geomhash":"328caa83f27f7397380baa217cb40838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632747,
+            "locality_id":9895052180,
+            "region_id":85675637
+        }
+    ],
+    "wof:id":9895052180,
+    "wof:lastmodified":1795735262,
+    "wof:name":"Nibok",
+    "wof:parent_id":85675637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.92056,
+    -0.51757,
+    166.92056,
+    -0.51757
+],
+  "geometry": {"coordinates":[166.92056,-0.51757],"type":"Point"}
+}
