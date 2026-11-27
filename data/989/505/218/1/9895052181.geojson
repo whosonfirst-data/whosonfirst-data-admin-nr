@@ -1,0 +1,73 @@
+{
+  "id": 9895052181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"166.91259,-0.52574,166.91259,-0.52574",
+    "geom:latitude":-0.52574,
+    "geom:longitude":166.91259,
+    "gn:population":1804,
+    "iso:country":"NR",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12129637: name \"Denigomodu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12129637"
+        },
+        {
+            "citation":"GeoNames populated place 12129637: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12129637"
+        },
+        {
+            "citation":"GeoNames populated place 12129637: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12129637"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675629 (Aiwo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632747,
+        85675629,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12129637
+    },
+    "wof:country":"NR",
+    "wof:geomhash":"9d36483f762ed9f7989b4e4f07ab6bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632747,
+            "locality_id":9895052181,
+            "region_id":85675629
+        }
+    ],
+    "wof:id":9895052181,
+    "wof:lastmodified":1795735262,
+    "wof:name":"Denigomodu",
+    "wof:parent_id":85675629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-nr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    166.91259,
+    -0.52574,
+    166.91259,
+    -0.52574
+],
+  "geometry": {"coordinates":[166.91259,-0.52574],"type":"Point"}
+}
